@@ -1,2 +1,2 @@
 # IDkd
-This code is basically a website used for helping people study and get in better colleges by preparing us for the main exams like NEET, Jee, NDA,Clat,Cuet,Olympiads,etc.
+All the codes together form a complete exam preparation platform called Study Bro. Each file/page plays a specific role in the user journey, but when combined, they create a seamless system for students to sign up, choose their exam, access resources, take mock tests, and review results.
